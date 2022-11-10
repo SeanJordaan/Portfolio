@@ -1,34 +1,12 @@
 export const WorkData = [
-    {
-        company: "Webdéveloppeur, freelance" ,
-        designation: "Webdéveloppeur",
-        dateJoining: "2019",
-        dateEnd: "2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
-        work:"Sur demandes, Webdéveloppeur et conseil IT en freelance, notamment en Suisse",
-    },
-    {
-        company: "Certificat de Webdéveloppeur - Becode" ,
-        designation: "W",
-        dateJoining: "21.05.2022",
-        dateEnd: "06.12.2019",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Certificat Obtenu auprès de becode.org au Pôle image de Liège, avec un stage chew Mwesto Labs - Liège"
-    },
-    {
-        company: "AESI Sciences Humaines - HeCh" ,
-        designation: "W",
-        dateJoining: "15.09.2020",
-        dateEnd: "15.08.2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"B2 Enseignant en Sciences Humaines, arrêté pour raisons médicales et reprise de l'activité d'informaticien"
-    },
-    {
-        company: "Intérim" ,
-        designation: "W",
-        dateJoining: "2016",
-        dateEnd: "Present",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Horéca, Ouvrier de production, Caissier, Technicien Polyvalent en constructions modulaires, Magasinier, Gardien de tournage, Runner Cinéma, Livreur de Matelas,..."
-    }
-]
+  {
+    company: 'BootCamp Year',
+    designation: 'Student',
+    dateJoining: '2022',
+    dateEnd: '2022',
+    companyLogo:
+      'https://cdn.ampmarketing.co.za/wp-content/uploads/2019/06/CodeCollege.jpg',
+    work: 'My experience through CodeCollege has been immense to say the least. I have grown as a developer on a exponential level, at a degree I did not think was possible. Throughout this entire year I have been faced with challenges that I thought I could have never overcome. As development has taught me there is always a solution to a problem. We can always make it work. Please see my GitHub link belowe to see my entire range of projects.',
+    github: 'https://github.com/SeanJordaan/randomAdvice-',
+  },
+];

@@ -24,9 +24,9 @@ export const ProjectData = [
     title: 'Coronavirus-App',
     about: 'Framework used',
     tags: ['Java', 'SQL', 'Springboot'],
-    url: 'https://www.gregoryjaccottet.com',
+    url: 'https://github.com/SeanJordaan/Portfolio',
     image:
-      'https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png',
+      'https://raw.githubusercontent.com/SeanJordaan/Portfolio/main/src/assets/coronavirus.png',
   },
   {
     id: 2,
@@ -35,18 +35,19 @@ export const ProjectData = [
       'A webpage to look at the total number of coronavirus casses and the a total that has been added from the day before the API gets updates daily',
     tags: ['Heroku'],
     demo: 'https://aqueous-meadow-74094.herokuapp.com/',
-    github: 'https://github.com/SeanJordaan/gymApp',
+    github:
+      'https://github.com/SeanJordaan/coronavirus-tracker/tree/main/coronavirus-tracker',
     image:
-      'https://github.com/ThantZinPhyo-OP/Portfolio-Website/raw/main/home.png',
+      'https://raw.githubusercontent.com/SeanJordaan/Portfolio/main/src/assets/coronavirus2.png',
   },
   {
     id: 3,
     title: 'Random Advice',
     about: 'Framework used',
     tags: ['ReactJS', 'Html/Css'],
-    url: 'https://www.gregoryjaccottet.com',
+    url: 'https://github.com/SeanJordaan/Portfolio',
     image:
-      'https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png',
+      'https://raw.githubusercontent.com/SeanJordaan/Portfolio/main/src/assets/advice1.png',
   },
   {
     id: 3,
@@ -55,8 +56,8 @@ export const ProjectData = [
       'This webpage can be used on mobel and desktop. It gives you some random advice generated everytime the button is clicked',
     tags: ['Netlify'],
     demo: 'https://seans-advice.netlify.app/',
-    github: 'https://github.com/ThantZinPhyo-OP/Portfolio-Website',
+    github: 'https://github.com/SeanJordaan/randomAdvice-',
     image:
-      'https://github.com/ThantZinPhyo-OP/Portfolio-Website/raw/main/home.png',
+      'https://raw.githubusercontent.com/SeanJordaan/Portfolio/main/src/assets/advice2.png',
   },
 ];
